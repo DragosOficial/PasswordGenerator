@@ -48,9 +48,9 @@
 
 <h2 id="screenshots"> :scroll: Screenshoty programu</h2>
 
-!(https://raw.githubusercontent.com/DragosOficial/PasswordGenerator/main/screenshoty/Screenshot3.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/DragosOficial/PasswordGenerator/main/screenshoty/Screenshot3.png)
 
-!(https://raw.githubusercontent.com/DragosOficial/PasswordGenerator/main/screenshoty/Screenshot1.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/DragosOficial/PasswordGenerator/main/screenshoty/Screenshot1.png)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
